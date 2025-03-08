@@ -25,9 +25,7 @@ Here’s a sneak peek of the app in action:
 
 ## 🚀 Live Demo
 
-Experience the QR Code Generator live: [QR Code Generator Website](#)
-
-_(https://saurabh123rawat456.github.io/QR-Code-Generator/)_
+Experience the QR Code Generator live: [QR Code Generator Website](https://saurabh123rawat456.github.io/QR-Code-Generator/)
 
 ---
 
@@ -93,4 +91,4 @@ If you have ideas for improvements or spot any bugs, feel free to:
 Feel free to reach out for collaborations or questions!
 
 - **Email:** saurabhrwt2121@gmail.com
-- **GitHub:** [your-username](https://github.com/saurabh123rawat456)
+- **GitHub:** [saurabh123rawat456](https://github.com/saurabh123rawat456)
