@@ -27,7 +27,7 @@ Here’s a sneak peek of the app in action:
 
 Experience the QR Code Generator live: [QR Code Generator Website](#)
 
-_(https://saurabh123rawat456.github.io/QR-Generator/)_
+_(https://saurabh123rawat456.github.io/QR-Code-Generator/)_
 
 ---
 
