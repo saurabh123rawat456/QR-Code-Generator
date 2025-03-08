@@ -19,7 +19,7 @@ This project is a simple yet powerful tool to generate custom QR codes instantly
 
 Here’s a sneak peek of the app in action:
 
-![QR Code Generator Screenshot](Screenshot2025-03-08203410.png)
+![QR Code Generator Screenshot](Screenshot.png)
 
 ---
 
